@@ -23,8 +23,6 @@ The piano is tuned to play notes inspired by "Für Elise" by Beethoven.
 - Arduino Uno
 - 5 Push Buttons
 - 1 Passive Buzzer
-- 5 LEDs (optional)
-- 220Ω resistors (for LEDs)
 - Breadboard
 - Jumper wires
 
